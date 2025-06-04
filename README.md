@@ -21,4 +21,13 @@
 | Evolutionary optimization of model merging recipes                                 | Evolution  | [Nature Machine Intelligence-2025](https://arxiv.org/abs/2403.13187) | ![Star](https://img.shields.io/github/stars/SakanaAI/evolutionary-model-merge.svg?style=social&label=Star) <br> [Github Link](https://github.com/SakanaAI/evolutionary-model-merge) |    Qingyun Wu    |    Sakana AI     |   27-Jan-2025    |
 | Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents | Application  | [ICML-22](https://arxiv.org/abs/2201.07207) | ![Star](https://img.shields.io/github/stars/huangwl18/language-planner.svg?style=social&label=Star) <br> [Github Link](https://github.com/huangwl18/language-planner) | Wenlong Huang |    UC Berkeley     |   8-Mar-2022    |
 | Language Models can Solve Computer Tasks | Application  | [Arxiv](https://arxiv.org/abs/2403.13187) | ![Star](https://img.shields.io/github/stars/posgnu/rci-agent.svg?style=social&label=Star) <br> [Github Link](https://github.com/posgnu/rci-agent) |    Geunwoo Kim    |    University of California     |   30-Mar-2023    |
+| WebGPT: Browser-assisted question-answering with human feedback | Tools  | [Arxiv](https://arxiv.org/abs/2403.13187) | [Website Link](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api) |    Reiichiro Nakano    |    OpenAI     |   1-Jun-2022    |
 
+---
+
+### Tools
+
+|**Title**|**Code**| **Release Date** |
+| :----------: | :------------: |  :--------------: |
+| Dify | ![Star](https://img.shields.io/github/stars/langgenius/dify.svg?style=social&label=Star) <br> [Github Link](https://github.com/langgenius/dify)|   2023    |
+| Langchian | ![Star](https://img.shields.io/github/stars/langgenius/dify.svg?style=social&label=Star) <br> [Github Link](https://github.com/langgenius/dify)|   2023    |
