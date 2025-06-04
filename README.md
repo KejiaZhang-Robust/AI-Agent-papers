@@ -38,4 +38,4 @@
 |**Title**|**Code**| **Release Date** |
 | :----------: | :------------: |  :--------------: |
 | Dify | ![Star](https://img.shields.io/github/stars/langgenius/dify.svg?style=social&label=Star) <br> [Github Link](https://github.com/langgenius/dify)|   2023    |
-| Langchian | ![Star](https://img.shields.io/github/stars/langgenius/dify.svg?style=social&label=Star) <br> [Github Link](https://github.com/langgenius/dify)|   2023    |
+| Langchian | ![Star](https://img.shields.io/github/stars/langchain-ai/langchain.svg?style=social&label=Star) <br> [Github Link](https://github.com/langchain-ai/langchain)|   2023    |
